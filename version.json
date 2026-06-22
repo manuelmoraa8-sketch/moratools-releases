@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/manuelmoraa8-sketch/moratools-releases/releases/download/v1.2.1/MoraTools_v1.2.1_Setup.exe",
-  "notas": "Ahora se muestran todos los tipos de muro y suelo, sin filtro de espesor.",
+  "version": "1.2.2",
+  "url": "https://github.com/manuelmoraa8-sketch/moratools-releases/releases/download/v1.2.2/MoraTools_v1.2.2_Setup.exe",
+  "notas": "Los muros de acabado ahora se modelan en suelos y pilares y cubren todo el canto. Ventanas con scroll para pantallas pequenas. Confirmacion visual del tipo elegido.",
   "obligatoria": false
 }
